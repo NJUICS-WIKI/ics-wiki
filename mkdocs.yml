@@ -1,15 +1,59 @@
 # Project Information
 site_name: ICS Wiki
 site_description: ICS Wiki 是 NJU 信息与计算科学（羟基）专业的站点
-site_author: NJU 
+site_author: NJU
+
+repo_url: https://github.com/Birdium/ics-wiki/
+
 theme:
   name: material
+  language: 'zh'
 
 # Contents
 nav:
-  - Test1:
-    - test2: test2.md
-    - test3: test3.md
-  - Test4:
-    - test5: test5.md
-    - test6: test6.md
+  - 课程:
+    # - 大一上: 
+    # - 大一下: 
+    - 大二上: 
+      - 密码学原理: Course/Crypto.md
+      - 概率论与数理统计: Course/Probabilitics.md
+    - 大二下:
+      - 数理逻辑: Course/MathLogic.md 
+      - 计算方法: Course/Numerical.md 
+    # - 大三上: 
+  - OJ:
+    - test: test.md
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: true
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.progressbar
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: math
+          class: arithmatex
+          format: !!python/name:pymdownx.arithmatex.fence_mathjax_format
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
