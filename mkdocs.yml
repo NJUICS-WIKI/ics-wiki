@@ -1,3 +1,15 @@
-site_name: My Docs
+# Project Information
+site_name: ICS Wiki
+site_description: ICS Wiki 是 NJU 信息与计算科学（羟基）专业的站点
+site_author: NJU 
 theme:
   name: material
+
+# Contents
+nav:
+  - Test1:
+    - test2: test2.md
+    - test3: test3.md
+  - Test4:
+    - test5: test5.md
+    - test6: test6.md
