@@ -2,7 +2,7 @@
 
 Welcome to Information and Computing Science Wiki
 
-欢迎来到 信息与计算科学 Wiki！
+欢迎来到 南京大学 信息与计算科学 Wiki！
 
 ## 这是什么
 

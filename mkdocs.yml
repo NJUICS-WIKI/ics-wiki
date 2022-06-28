@@ -13,6 +13,7 @@ theme:
 
 # Contents
 nav:
+  - 简介: index.md
   - 课程:
     # - 大一上: 
     # - 大一下: 
