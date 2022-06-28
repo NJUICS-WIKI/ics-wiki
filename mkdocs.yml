@@ -15,14 +15,29 @@ theme:
 nav:
   - 简介: index.md
   - 课程:
-    # - 大一上: 
-    # - 大一下: 
+    - 大一上:
+      - 数学分析: Course/MathAnalysis1.md
+      - 高等代数: Course/LinAlg.md
+      - 信息与计算科学导论: Course/icsIntro.md
+      - 信息与计算科学实验: Course/icsIntroLab.md
+    - 大一下:
+      - 数学分析: Course/MathAnalysis2.md
+      - 高等代数: Course/LinAlg2.md
+      - 离散数学: Course/DiscreteMath.md
+      - 信息科学与实践: Course/LAOZHAO1.md
+      - 大学物理: Course/Physics.md
     - 大二上: 
       - 密码学原理: Course/Crypto.md
       - 概率论与数理统计: Course/Probabilitics.md
+      - 数据结构: Course/DataStructure.md
+      - 近世代数: Course/AbstractAlgebra.md
+      - 凸优化: Course/ConvexOptimization.md
     - 大二下:
+      - 算法设计与分析: Course/Algorithm.md
+      - 图论与算法: Course/Graph.md
       - 数理逻辑: Course/MathLogic.md 
       - 计算方法: Course/Numerical.md 
+      - 博弈论及其应用: Course/GameTheory.md
     # - 大三上: 
   - OJ:
     - test: test.md
