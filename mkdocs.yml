@@ -3,7 +3,9 @@ site_name: ICS Wiki
 site_description: ICS Wiki 是 NJU 信息与计算科学（羟基）专业的站点
 site_author: NJU
 
-repo_url: https://github.com/Birdium/ics-wiki/
+repo_name: 'Birdium/ics-wiki'
+repo_url: 'https://github.com/Birdium/ics-wiki/'
+edit_uri: 'edit/main/docs'
 
 theme:
   name: material
