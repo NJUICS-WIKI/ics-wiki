@@ -23,6 +23,7 @@ Welcome to Information and Computing Science Wiki
 2. 本地编辑
 
     将 fork 的仓库 clone 到本地, commit 你的修改， push 到你的 fork 仓库， 再提交 Pull request.
+    如果要新建文档，需要在根目录下 mkdocs.yml 文件中 nav: 下添加对应的文档目录
 
 如果依然对如何编辑有疑问，可以参照 [OI-Wiki 上相关页面](https://oi-wiki.org/intro/htc) 来进行编辑
 
