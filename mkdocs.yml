@@ -28,7 +28,7 @@ nav:
       - 大学物理: Course/Physics.md
     - 大二上: 
       - 密码学原理: Course/Crypto.md
-      - 概率论与数理统计: Course/probabilistic.md
+      - 概率论与数理统计: Course/Probabilistic.md
       - 数据结构: Course/DataStructure.md
       - 近世代数: Course/AbstractAlgebra.md
       - 最优化方法: Course/OptimizationMethods.md
