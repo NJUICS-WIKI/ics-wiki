@@ -38,7 +38,10 @@ nav:
       - 数理逻辑: Course/MathLogic.md 
       - 计算方法: Course/Numerical.md 
       - 博弈论及其应用: Course/GameTheory.md
-    # - 大三上: 
+    - 大三上:
+      - 形式语言与自动机: Course/FLA.md 
+      - 软件工程: Course/Software.md 
+      - 计算机网络: Course/Network.md 
   - OJ:
     - test: test.md
 
