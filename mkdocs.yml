@@ -44,6 +44,10 @@ nav:
       - 计算机网络: Course/Network.md 
     - 大三下:
       - 数字逻辑与计算机组成实验: Course/DLCO_Lab.md 
+    - 跨选课程:
+      - 计算机系统基础: Course/ICS.md
+      - 操作系统: Course/OS.md
+      - 程序设计语言的形式语义: Course/FormalSemantics.md
   - OJ:
     - test: test.md
 
