@@ -42,6 +42,8 @@ nav:
       - 形式语言与自动机: Course/FLA.md 
       - 软件工程: Course/Software.md 
       - 计算机网络: Course/Network.md 
+    - 大三下:
+      - 数字逻辑与计算机组成实验: Course/DLCO_Lab.md 
   - OJ:
     - test: test.md
 
