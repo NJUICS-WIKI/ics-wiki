@@ -14,6 +14,7 @@ theme:
 # Contents
 nav:
   - 简介: index.md
+  - 基本技能: skills.md
   - 课程:
     - 大一上:
       - 数学分析: Course/MathAnalysis1.md
