@@ -10,6 +10,7 @@ edit_uri: 'edit/main/docs'
 theme:
   name: material
   language: 'zh'
+  custom_dir: overrides
 
 # Contents
 nav:
