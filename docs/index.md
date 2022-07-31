@@ -27,6 +27,12 @@ Welcome to Information and Computing Science Wiki
 
 如果依然对如何编辑有疑问，可以参照 [OI-Wiki 上相关页面](https://oi-wiki.org/intro/htc) 来进行编辑
 
+## 评论系统
+
+奇妙的评论系统上线了！使用了 [Giscus](https://giscus.app/zh-CN)
+
+使用github登录即可一键发送评论
+
 ## 声明
 
 本 wiki 使用 mkdocs，暂时部署在[birdium.github.io/ics-wiki](https://birdium.github.io/ics-wiki)上。
