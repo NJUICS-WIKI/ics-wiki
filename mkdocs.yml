@@ -19,12 +19,15 @@ nav:
   - 课程:
     - 大一上:
       - 数学分析: Course/MathAnalysis1.md
-      - 高等代数: Course/LinAlg.md
+      - 高等代数: Course/LinAlg1.md
+      - 微积分1: Course/Calculus1.md
+      - 线性代数: Course/LinAlg.md
       - 信息与计算科学导论: Course/icsIntro.md
       - 信息与计算科学实验: Course/icsIntroLab.md
     - 大一下:
       - 数学分析: Course/MathAnalysis2.md
       - 高等代数: Course/LinAlg2.md
+      - 微积分2: Course/Calculus2.md
       - 离散数学: Course/DiscreteMath.md
       - 信息科学与实践: Course/LAOZHAO1.md
       - 大学物理: Course/Physics.md
@@ -45,11 +48,15 @@ nav:
       - 形式语言与自动机: Course/FLA.md 
       - 软件工程: Course/Software.md 
       - 计算机网络: Course/Network.md 
+      - 编译原理: Course/Compiler.md 
+      - 数据库概论: Course/Database.md
+      - 数字逻辑与计算机组成: Course/DLCO.md
     - 大三下:
       - 数字逻辑与计算机组成实验: Course/DLCO_Lab.md 
     - 跨选课程:
       - 操作系统: Course/OS.md
       - 程序设计语言的形式语义: Course/FormalSemantics.md
+      - 并发算法与理论: Course/Concurrency.md
   - OJ:
     - test: test.md
 
