@@ -40,6 +40,7 @@ nav:
       - 数理逻辑: Course/MathLogic.md 
       - 计算方法: Course/Numerical.md 
       - 博弈论及其应用: Course/GameTheory.md
+      - 计算机系统基础: Course/ICS.md
     - 大三上:
       - 形式语言与自动机: Course/FLA.md 
       - 软件工程: Course/Software.md 
@@ -47,7 +48,6 @@ nav:
     - 大三下:
       - 数字逻辑与计算机组成实验: Course/DLCO_Lab.md 
     - 跨选课程:
-      - 计算机系统基础: Course/ICS.md
       - 操作系统: Course/OS.md
       - 程序设计语言的形式语义: Course/FormalSemantics.md
   - OJ:
