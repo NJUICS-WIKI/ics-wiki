@@ -53,8 +53,8 @@ nav:
       - 数字逻辑与计算机组成: Course/DLCO.md
     - 大三下:
       - 数字逻辑与计算机组成实验: Course/DLCO_Lab.md 
-    - 跨选课程:
       - 操作系统: Course/OS.md
+    - 跨选课程:
       - 程序设计语言的形式语义: Course/FormalSemantics.md
       - 并发算法与理论: Course/Concurrency.md
   - OJ:
