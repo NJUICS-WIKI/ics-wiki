@@ -26,11 +26,3 @@ Welcome to Information and Computing Science Wiki
     如果要新建文档，需要在根目录下 mkdocs.yml 文件中 nav: 下添加对应的文档目录
 
 如果依然对如何编辑有疑问，可以参照 [OI-Wiki 上相关页面](https://oi-wiki.org/intro/htc) 来进行编辑
-
-## 声明
-
-本 wiki 使用 mkdocs，暂时部署在[birdium.github.io/ics-wiki](https://birdium.github.io/ics-wiki)上。
-
-灵感来源于 [OI-wiki](https://github.com/OI-wiki/OI-wiki)。
-
-
