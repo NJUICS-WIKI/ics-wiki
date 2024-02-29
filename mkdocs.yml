@@ -4,7 +4,7 @@ site_description: ICS Wiki 是 NJU 信息与计算科学（羟基）专业的站
 site_author: NJU
 
 repo_name: 'NJUICS-WIKI/ics-wiki'
-repo_url: 'https://github.com/NJUICS-WIKI'
+repo_url: 'https://github.com/NJUICS-WIKI/ics-wiki'
 edit_uri: 'edit/main/docs'
 
 theme:
