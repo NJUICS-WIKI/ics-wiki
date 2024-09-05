@@ -35,7 +35,7 @@ Welcome to Information and Computing Science Wiki
 
 ## 声明
 
-本 wiki 使用 mkdocs，暂时部署在[birdium.github.io/ics-wiki](https://birdium.github.io/ics-wiki)上。
+本 wiki 使用 mkdocs，暂时部署在[njuics-wiki.github.io/ics-wiki](https://njuics-wiki.github.io/ics-wiki)上。
 
 灵感来源于 [OI-wiki](https://github.com/OI-wiki/OI-wiki)。
 

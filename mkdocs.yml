@@ -37,6 +37,7 @@ nav:
       - 数据结构: Course/DataStructure.md
       - 近世代数: Course/AbstractAlgebra.md
       - 最优化方法: Course/OptimizationMethods.md
+      - 计算机系统基础: Course/ICS.md
     - 大二下:
       - 算法设计与分析: Course/Algorithm.md
       - 图论与算法: Course/Graph.md
