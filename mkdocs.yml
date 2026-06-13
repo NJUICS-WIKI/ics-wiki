@@ -73,6 +73,7 @@ nav:
       - 机器学习导论: Course/ML_Intro.md
       - 计算机程序的构造与解释: Course/SICP.md
       - LLM智能应用开发: Course/LLM_Intelligent_SD.md
+      - 并行计算方法引论: Course/IntroductionToParallelComputing.md
   - OJ:
     - test: test.md
 
